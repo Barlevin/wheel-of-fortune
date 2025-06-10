@@ -15,6 +15,9 @@ router.get('/', function(req, res, next) {
   console.log('bar')
   console.log('bar')
   console.log('bar')
+  console.log('bar')
+  console.log('bar')
+  console.log('bar')
   res.send('respond with a resource');
 
 });
