@@ -3,7 +3,18 @@ var router = express.Router();
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-  console.log('daniel')
+  console.log('bar')
+  console.log('bar')
+  console.log('bar')
+  console.log('bar')
+  console.log('bar')
+  console.log('bar')
+  console.log('bar')
+  console.log('bar')
+  console.log('bar')
+  console.log('bar')
+  console.log('bar')
+  console.log('bar')
   res.send('respond with a resource');
 
 });
