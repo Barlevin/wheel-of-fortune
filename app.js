@@ -29,7 +29,7 @@ app.use(function(req, res, next) {
 });
 console.log('gal Ha Ben')
 console.log('bar')
-
+console.log('alon gay ')
 // error handler
 app.use(function(err, req, res, next) {
   // set locals, only providing error in development
